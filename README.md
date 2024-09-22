@@ -1,9 +1,5 @@
 ### Hi there 👋, 
-Im a Student of Aeronautics and Astronautics at Technische Univesität Berlin in Germany. 
-
-In my Studies I worked alot with PX4-Autopilot to allow the automatic flight of preliminary generated pathes and trajectory on a quadrocopter plattform.
-
-At the moment Im interested in learning Web-Development including FullStack-development and DevOps-technoliges.
+Im a Research Asociate at department for Digital Networking of Buildings, Energy Supply Systems and Users at technical university Berlin
 
 <!--
 **expeditionengineer/expeditionengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
