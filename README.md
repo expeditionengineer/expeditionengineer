@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-Im a Research Asociate at department for Digital Networking of Buildings, Energy Supply Systems and Users at technical university Berlin
+Im a Database Administrator at Technische Universität Berlin
 
 <!--
 **expeditionengineer/expeditionengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
